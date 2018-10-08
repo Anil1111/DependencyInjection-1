@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="HelloWorld.cs" />
     <Compile Include="IKernal.cs" />
+    <Compile Include="MethodInjection.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

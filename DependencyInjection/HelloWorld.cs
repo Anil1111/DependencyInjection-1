@@ -10,6 +10,7 @@ namespace DependencyInjection
     {
         IKernal ikernal = null;
 
+        // constructor injection
         public HelloWorld(IKernal ikernal)
         {
             this.ikernal = ikernal;
